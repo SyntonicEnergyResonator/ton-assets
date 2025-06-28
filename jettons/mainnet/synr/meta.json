@@ -1,0 +1,13 @@
+{
+  "name": "SYNR",
+  "symbol": "SYNR",
+  "decimals": 9,
+  "address": "EQBwA4bZgkNEMwLDFMLlgIKLXHS3WchLD6ixkXK2qlsUxZ8Z",
+  "description": "SYNR is a utility token powering the Mental Compass ecosystem — a decentralized self-evolution platform combining diagnostics, practices, and collective wisdom exchange.",
+  "image": "icon.png",
+  "websites": ["https://synr.one"],
+  "social": {
+    "telegram": "https://t.me/SynergoRazum",
+    "github": "https://github.com/SyntonicEnergyResonator"
+  }
+}
